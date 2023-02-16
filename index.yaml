@@ -17,7 +17,7 @@ entries:
     icon: https://guide.opencord.org/logos/cord.svg
     name: 5g-control-plane
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/5g-control-plane-0.8.10.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/5g-control-plane-0.8.10.tgz?raw=true
     version: 0.8.10
   5g-ran-sim:
   - apiVersion: v1
@@ -27,7 +27,7 @@ entries:
     icon: https://guide.opencord.org/logos/cord.svg
     name: 5g-ran-sim
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/5g-ran-sim-0.6.5.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/5g-ran-sim-0.6.5.tgz?raw=true
     version: 0.6.5
   5g-test-apps:
   - apiVersion: v2
@@ -42,7 +42,7 @@ entries:
     icon: https://guide.opencord.org/logos/cord.svg
     name: 5g-test-apps
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/5g-test-apps-0.2.3.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/5g-test-apps-0.2.3.tgz?raw=true
     version: 0.2.3
   aether-enterprise-portal:
   - apiVersion: v2
@@ -63,7 +63,7 @@ entries:
     name: aether-enterprise-portal
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/aether-enterprise-portal-0.1.2.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/aether-enterprise-portal-0.1.2.tgz?raw=true
     version: 0.1.2
   aether-mock-exporter:
   - apiVersion: v2
@@ -82,7 +82,7 @@ entries:
     name: aether-mock-exporter
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/aether-mock-exporter-0.2.1.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/aether-mock-exporter-0.2.1.tgz?raw=true
     version: 0.2.1
   aether-roc-api:
   - apiVersion: v2
@@ -104,7 +104,7 @@ entries:
     name: aether-roc-api
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/aether-roc-api-1.7.14.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/aether-roc-api-1.7.14.tgz?raw=true
     version: 1.7.14
   aether-roc-gui:
   - apiVersion: v2
@@ -123,7 +123,7 @@ entries:
     name: aether-roc-gui
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/aether-roc-gui-3.0.152.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/aether-roc-gui-3.0.152.tgz?raw=true
     version: 3.0.152
   aether-roc-gui-v2:
   - apiVersion: v2
@@ -143,7 +143,7 @@ entries:
     name: aether-roc-gui-v2
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/aether-roc-gui-v2-2.1.3.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/aether-roc-gui-v2-2.1.3.tgz?raw=true
     version: 2.1.3
   aether-roc-gui-v4:
   - apiVersion: v2
@@ -163,7 +163,7 @@ entries:
     name: aether-roc-gui-v4
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/aether-roc-gui-v4-4.0.100.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/aether-roc-gui-v4-4.0.100.tgz?raw=true
     version: 4.0.100
   aether-roc-umbrella:
   - apiVersion: v2
@@ -265,7 +265,7 @@ entries:
     name: aether-roc-umbrella
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/aether-roc-umbrella-2.1.33.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/aether-roc-umbrella-2.1.33.tgz?raw=true
     version: 2.1.33
   aether-roc-websocket:
   - apiVersion: v2
@@ -287,7 +287,7 @@ entries:
     name: aether-roc-websocket
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/aether-roc-websocket-1.2.0.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/aether-roc-websocket-1.2.0.tgz?raw=true
     version: 1.2.0
   bess-upf:
   - apiVersion: v1
@@ -297,7 +297,7 @@ entries:
     icon: https://guide.opencord.org/logos/cord.svg
     name: bess-upf
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/bess-upf-0.1.3.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/bess-upf-0.1.3.tgz?raw=true
     version: 0.1.3
   cdn-local:
   - apiVersion: v1
@@ -307,7 +307,7 @@ entries:
     icon: https://guide.opencord.org/logos/cord.svg
     name: cdn-local
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/cdn-local-0.2.7.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/cdn-local-0.2.7.tgz?raw=true
     version: 0.2.7
   cdn-remote:
   - apiVersion: v1
@@ -317,7 +317,7 @@ entries:
     digest: 6f3deef4e084a2f3ac025277d7916575b6ccfc4d898a548d75c8fda2e646aec8
     name: cdn-remote
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/cdn-remote-0.2.6.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/cdn-remote-0.2.6.tgz?raw=true
     version: 0.2.6
   chronos-exporter:
   - apiVersion: v2
@@ -336,7 +336,7 @@ entries:
     name: chronos-exporter
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/chronos-exporter-0.1.0.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/chronos-exporter-0.1.0.tgz?raw=true
     version: 0.1.0
   chronos-umbrella:
   - apiVersion: v2
@@ -389,7 +389,7 @@ entries:
     name: chronos-umbrella
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/chronos-umbrella-0.1.32.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/chronos-umbrella-0.1.32.tgz?raw=true
     version: 0.1.32
   config-model-aether:
   - apiVersion: v2
@@ -408,7 +408,7 @@ entries:
       name: ONOS Support
     name: config-model-aether
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/config-model-aether-4.0.4.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/config-model-aether-4.0.4.tgz?raw=true
     version: 4.0.4
   config-model-aether-2:
   - apiVersion: v2
@@ -427,7 +427,7 @@ entries:
       name: ONOS Support
     name: config-model-aether-2
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/config-model-aether-2-2.1.6.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/config-model-aether-2-2.1.6.tgz?raw=true
     version: 2.1.6
   config-model-aether-3:
   - apiVersion: v2
@@ -446,7 +446,7 @@ entries:
       name: ONOS Support
     name: config-model-aether-3
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/config-model-aether-3-3.0.150.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/config-model-aether-3-3.0.150.tgz?raw=true
     version: 3.0.150
   config-model-aether-4:
   - apiVersion: v2
@@ -465,7 +465,7 @@ entries:
       name: ONOS Support
     name: config-model-aether-4
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/config-model-aether-4-4.0.18.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/config-model-aether-4-4.0.18.tgz?raw=true
     version: 4.0.18
   config-model-plproxy:
   - apiVersion: v2
@@ -483,7 +483,7 @@ entries:
       name: ONOS Support
     name: config-model-plproxy
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/config-model-plproxy-1.0.2.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/config-model-plproxy-1.0.2.tgz?raw=true
     version: 1.0.2
   dbuf:
   - apiVersion: v2
@@ -494,7 +494,7 @@ entries:
     name: dbuf
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/dbuf-0.1.11.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/dbuf-0.1.11.tgz?raw=true
     version: 0.1.11
   demo-exporter:
   - apiVersion: v2
@@ -513,7 +513,7 @@ entries:
     name: demo-exporter
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/demo-exporter-0.1.1.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/demo-exporter-0.1.1.tgz?raw=true
     version: 0.1.1
   di-metrics-exporter:
   - apiVersion: v1
@@ -523,7 +523,7 @@ entries:
     digest: c900dfae528ec799a42d8a2d76df6983c08417f5b7fbb63ee6ea77f3bfe7506c
     name: di-metrics-exporter
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/di-metrics-exporter-0.0.3.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/di-metrics-exporter-0.0.3.tgz?raw=true
     version: 0.0.3
   di-topology-watchdog:
   - apiVersion: v1
@@ -533,7 +533,7 @@ entries:
     digest: 2ba59e429027e6f7b39d8b68542073ce411dd9e4847be4e4725efde4a49b7d55
     name: di-topology-watchdog
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/di-topology-watchdog-0.0.5.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/di-topology-watchdog-0.0.5.tgz?raw=true
     version: 0.0.5
   edge-maintenance-agent:
   - apiVersion: v1
@@ -543,7 +543,7 @@ entries:
     digest: a3e48effe0646555b2667c4023af8f1a0054488db9336c1ec4e22968f235a9ea
     name: edge-maintenance-agent
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/edge-maintenance-agent-0.2.0.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/edge-maintenance-agent-0.2.0.tgz?raw=true
     version: 0.2.0
   edge-monitoring-server:
   - apiVersion: v1
@@ -553,7 +553,7 @@ entries:
     digest: 1cb4676254f524090e65d728b33145dff9f1a934533600018dacdff4a27947fd
     name: edge-monitoring-server
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/edge-monitoring-server-0.5.5.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/edge-monitoring-server-0.5.5.tgz?raw=true
     version: 0.5.5
   enodebd:
   - apiVersion: v2
@@ -572,7 +572,7 @@ entries:
     name: enodebd
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/enodebd-0.0.2.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/enodebd-0.0.2.tgz?raw=true
     version: 0.0.2
   fabric-adapter:
   - apiVersion: v2
@@ -592,7 +592,7 @@ entries:
     name: fabric-adapter
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/fabric-adapter-0.1.3.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/fabric-adapter-0.1.3.tgz?raw=true
     version: 0.1.3
   fabric-umbrella:
   - apiVersion: v2
@@ -654,7 +654,7 @@ entries:
     name: fabric-umbrella
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/fabric-umbrella-0.1.17.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/fabric-umbrella-0.1.17.tgz?raw=true
     version: 0.1.17
   grafana-aether:
   - apiVersion: v1
@@ -669,7 +669,7 @@ entries:
     digest: 73a905a6396150b10b90e7940ec26791c8c575c500d540549b3057ca7e91d114
     name: grafana-aether
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/grafana-aether-0.6.15.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/grafana-aether-0.6.15.tgz?raw=true
     version: 0.6.15
   infosys-deepstream:
   - apiVersion: v1
@@ -678,7 +678,7 @@ entries:
     digest: 93216b72fe5b20ac5b726b5bf974f6eeeed0fdae1c7171b78d84ed348128cdc6
     name: infosys-deepstream
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/infosys-deepstream-0.1.0.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/infosys-deepstream-0.1.0.tgz?raw=true
     version: 0.1.0
   int-host-reporter:
   - apiVersion: v2
@@ -692,7 +692,7 @@ entries:
     name: int-host-reporter
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/int-host-reporter-0.0.4.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/int-host-reporter-0.0.4.tgz?raw=true
     version: 0.0.4
   network-diag-app:
   - apiVersion: v2
@@ -701,7 +701,7 @@ entries:
     digest: 2f0f026da52ddd8d0edfa7e59a33f57f29f2acca5fa716240c92869d3d5ba506
     name: network-diag-app
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/network-diag-app-0.1.0.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/network-diag-app-0.1.0.tgz?raw=true
     version: 0.1.0
   omec-control-plane:
   - apiVersion: v1
@@ -716,7 +716,7 @@ entries:
     icon: https://guide.opencord.org/logos/cord.svg
     name: omec-control-plane
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/omec-control-plane-0.12.0.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/omec-control-plane-0.12.0.tgz?raw=true
     version: 0.12.0
   omec-data-plane:
   - apiVersion: v1
@@ -726,7 +726,7 @@ entries:
     icon: https://guide.opencord.org/logos/cord.svg
     name: omec-data-plane
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/omec-data-plane-0.1.14.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/omec-data-plane-0.1.14.tgz?raw=true
     version: 0.1.14
   omec-data-plane-cni:
   - apiVersion: v1
@@ -736,7 +736,7 @@ entries:
     icon: https://guide.opencord.org/logos/cord.svg
     name: omec-data-plane-cni
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/omec-data-plane-cni-1.0.3.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/omec-data-plane-cni-1.0.3.tgz?raw=true
     version: 1.0.3
   omec-pfcp-agent:
   - apiVersion: v1
@@ -746,7 +746,7 @@ entries:
     icon: https://guide.opencord.org/logos/cord.svg
     name: omec-pfcp-agent
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/omec-pfcp-agent-0.1.0.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/omec-pfcp-agent-0.1.0.tgz?raw=true
     version: 0.1.0
   omec-sub-provision:
   - apiVersion: v2
@@ -756,7 +756,7 @@ entries:
     icon: https://guide.opencord.org/logos/cord.svg
     name: omec-sub-provision
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/omec-sub-provision-0.6.0.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/omec-sub-provision-0.6.0.tgz?raw=true
     version: 0.6.0
   omec-upf-cni:
   - apiVersion: v1
@@ -766,7 +766,7 @@ entries:
     icon: https://guide.opencord.org/logos/cord.svg
     name: omec-upf-cni
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/omec-upf-cni-0.1.4.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/omec-upf-cni-0.1.4.tgz?raw=true
     version: 0.1.4
   omec-upf-pfcp-agent:
   - apiVersion: v1
@@ -776,7 +776,7 @@ entries:
     icon: https://guide.opencord.org/logos/cord.svg
     name: omec-upf-pfcp-agent
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/omec-upf-pfcp-agent-0.3.0.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/omec-upf-pfcp-agent-0.3.0.tgz?raw=true
     version: 0.3.0
   omec-user-plane:
   - apiVersion: v1
@@ -786,7 +786,7 @@ entries:
     icon: https://guide.opencord.org/logos/cord.svg
     name: omec-user-plane
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/omec-user-plane-0.7.0.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/omec-user-plane-0.7.0.tgz?raw=true
     version: 0.7.0
   opendistro-setting:
   - apiVersion: v2
@@ -797,7 +797,7 @@ entries:
     name: opendistro-setting
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/opendistro-setting-0.1.4.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/opendistro-setting-0.1.4.tgz?raw=true
     version: 0.1.4
   opensearch-setting:
   - apiVersion: v2
@@ -808,7 +808,7 @@ entries:
     name: opensearch-setting
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/opensearch-setting-0.1.6.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/opensearch-setting-0.1.6.tgz?raw=true
     version: 0.1.6
   person-detection-app:
   - apiVersion: v2
@@ -819,7 +819,7 @@ entries:
     name: person-detection-app
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/person-detection-app-0.1.5.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/person-detection-app-0.1.5.tgz?raw=true
     version: 0.1.5
   pfcp-agent:
   - apiVersion: v1
@@ -828,7 +828,7 @@ entries:
     digest: 83e63e52e7ea9b8c0b6d75b6517298b75bf0434bcb08e1f8b64e2289513c2b71
     name: pfcp-agent
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/pfcp-agent-0.0.14.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/pfcp-agent-0.0.14.tgz?raw=true
     version: 0.0.14
   prom-label-proxy:
   - apiVersion: v2
@@ -846,7 +846,7 @@ entries:
     name: prom-label-proxy
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/prom-label-proxy-0.1.3.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/prom-label-proxy-0.1.3.tgz?raw=true
     version: 0.1.3
   rasa-action-server:
   - apiVersion: v2
@@ -865,7 +865,7 @@ entries:
     name: rasa-action-server
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/rasa-action-server-0.1.0.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/rasa-action-server-0.1.0.tgz?raw=true
     version: 0.1.0
   rasa-model-server:
   - apiVersion: v2
@@ -884,7 +884,7 @@ entries:
     name: rasa-model-server
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/rasa-model-server-0.1.0.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/rasa-model-server-0.1.0.tgz?raw=true
     version: 0.1.0
   ros-core:
   - apiVersion: v1
@@ -899,7 +899,7 @@ entries:
     icon: https://www.ros.org/wp-content/uploads/2013/10/rosorg-logo1.png
     name: ros-core
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/ros-core-0.1.4.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/ros-core-0.1.4.tgz?raw=true
     version: 0.1.4
   router:
   - apiVersion: v2
@@ -909,7 +909,7 @@ entries:
     icon: https://guide.opencord.org/logos/cord.svg
     name: router
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/router-0.1.1.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/router-0.1.1.tgz?raw=true
     version: 0.1.1
   sd-core:
   - apiVersion: v2
@@ -946,7 +946,7 @@ entries:
     name: sd-core
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/sd-core-0.12.5.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/sd-core-0.12.5.tgz?raw=true
     version: 0.12.5
   sdcore-adapter:
   - apiVersion: v2
@@ -965,7 +965,7 @@ entries:
     name: sdcore-adapter
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/sdcore-adapter-3.0.16.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/sdcore-adapter-3.0.16.tgz?raw=true
     version: 3.0.16
   sdcore-adapter-v2:
   - apiVersion: v2
@@ -985,7 +985,7 @@ entries:
     name: sdcore-adapter-v2
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/sdcore-adapter-v2-2.1.1.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/sdcore-adapter-v2-2.1.1.tgz?raw=true
     version: 2.1.1
   sdcore-adapter-v2-1:
   - apiVersion: v2
@@ -1005,7 +1005,7 @@ entries:
     name: sdcore-adapter-v2-1
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/sdcore-adapter-v2-1-2.1.1.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/sdcore-adapter-v2-1-2.1.1.tgz?raw=true
     version: 2.1.1
   sdcore-adapter-v4:
   - apiVersion: v2
@@ -1025,7 +1025,7 @@ entries:
     name: sdcore-adapter-v4
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/sdcore-adapter-v4-4.0.19.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/sdcore-adapter-v4-4.0.19.tgz?raw=true
     version: 4.0.19
   sdcore-prom-kafka:
   - apiVersion: v2
@@ -1043,7 +1043,7 @@ entries:
     name: sdcore-prom-kafka
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/sdcore-prom-kafka-1.0.0.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/sdcore-prom-kafka-1.0.0.tgz?raw=true
     version: 1.0.0
   sdfabric:
   - apiVersion: v2
@@ -1091,7 +1091,7 @@ entries:
     name: sdfabric
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/sdfabric-1.2.0.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/sdfabric-1.2.0.tgz?raw=true
     version: 1.2.0
   subscriber-proxy:
   - apiVersion: v2
@@ -1110,7 +1110,7 @@ entries:
     name: subscriber-proxy
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/subscriber-proxy-0.2.1.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/subscriber-proxy-0.2.1.tgz?raw=true
     version: 0.2.1
   thingsboard-iot-platform:
   - apiVersion: v1
@@ -1120,7 +1120,7 @@ entries:
     icon: https://guide.opencord.org/logos/cord.svg
     name: thingsboard-iot-platform
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/thingsboard-iot-platform-0.1.2.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/thingsboard-iot-platform-0.1.2.tgz?raw=true
     version: 0.1.2
   tost-telegraf:
   - apiVersion: v2
@@ -1135,6 +1135,6 @@ entries:
     name: tost-telegraf
     type: application
     urls:
-    - https://github.com/wafi981/aetherproject.git/docs/tost-telegraf-0.1.8.tgz
+    - https://github.com/wafi981/aetherproject/blob/main/docs/tost-telegraf-0.1.8.tgz?raw=true
     version: 0.1.8
 generated: "2023-02-16T07:35:06.832755837Z"
